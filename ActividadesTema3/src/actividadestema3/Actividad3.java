@@ -3,7 +3,11 @@ package actividadestema3;
 import java.util.Scanner;
 
 public class Actividad3 {
-
+	/*
+	* He probado con el 7, ha salido un tríangulo de 7 de altura y 7 de base
+	* He probado con el 10, ha salido un tríangulo de 10 de altura y 10 de base
+	* He probado con el 0, no ha salido nada
+	*/
 	public static void main(String[] args) {
 		
 		//Declaramos las variables que utilizaremos más adelante
