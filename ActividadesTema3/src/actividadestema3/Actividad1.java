@@ -3,6 +3,11 @@ package actividadestema3;
 import java.util.Scanner;
 
 public class Actividad1 {
+	/*
+	* Lo primero que he probado, es a introducir las 23 59 59 y sumarle 10 segundos, todo ha salido correctamente
+	* Después he probado a introducir un valor de horas mayor a 24 y ha salido error
+	* Después he probado a introducir un valor de minutos y segundos mayor a 60 y ha salido error
+	*/
 
 	public static void main(String[] args) {
 		
