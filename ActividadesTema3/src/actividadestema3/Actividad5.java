@@ -3,6 +3,11 @@ package actividadestema3;
 import java.util.Scanner;
 
 public class Actividad5 {
+	/*
+	* He probado con el 15 y el 50, ha salido 150
+	* He probado con el 60 y el 35 y ha salido 420
+	* He probado con el 10 y el 5 y ha salido 10
+	*/
 
 	public static void main(String[] args) {
 
