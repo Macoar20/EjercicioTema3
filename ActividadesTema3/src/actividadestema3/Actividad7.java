@@ -6,7 +6,7 @@ public class Actividad7 {
 
 	public static void main(String[] args) {
 
-		
+		//Introducimos la variables
 		int n;
 		
 		Scanner ma = new Scanner(System.in);
