@@ -3,6 +3,11 @@ package actividadestema3;
 import java.util.Scanner;
 
 public class Actividad2 {
+	/*
+	* He probado con un número primo, es irrelevante, realiza la operación como si no lo fuese
+	* He probado con el 7, ha salido todo correctamente
+	* He probado con el 200, he calculado con la calculadora y ha dado correctamente
+	*/
 
 	public static void main(String[] args) {
 		
