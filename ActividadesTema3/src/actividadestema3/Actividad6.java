@@ -3,6 +3,11 @@ package actividadestema3;
 import java.util.Scanner;
 
 public class Actividad6 {
+	/*
+	* He probado con el 10 y ha salido todo correctamente
+	* He probado con el 0 y no ha salido nada
+	* He probado con el 7 y ha salido todo bien 
+	*/
 
 	public static void main(String[] args) {
 		
