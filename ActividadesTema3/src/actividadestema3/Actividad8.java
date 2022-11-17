@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Actividad8 {
 
 	public static void main(String[] args) {
-
+		
 		int mayor=0;
 		int n;
 		int conteof=0;
